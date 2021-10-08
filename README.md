@@ -13,6 +13,9 @@ Copy the contents of the zip file into an accesible folder
 python main.py
 ```
 
+## Github
+
+https://github.com/epalomeque/PokerCards
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
